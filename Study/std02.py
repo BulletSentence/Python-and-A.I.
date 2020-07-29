@@ -21,3 +21,15 @@ print(len(tuple1))
 #tuple sort
 tuple2 = (1, 3, 5, 8, 2)
 print(sorted(tuple2))
+
+# LIST
+l = ["Michael Jackson", 10.1, 1982, "MJ", 1]
+print(l)
+
+# List contatenate
+l.extend(["pop", 10])
+print(l)
+
+# modify element from index
+l[1] = 10
+print(l)
