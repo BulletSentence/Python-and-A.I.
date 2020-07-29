@@ -17,3 +17,7 @@ print(tuple1[1:3])
 
 #tuple sixe
 print(len(tuple1))
+
+#tuple sort
+tuple2 = (1, 3, 5, 8, 2)
+print(sorted(tuple2))
