@@ -18,5 +18,6 @@ print(12/5)
 # Integer Division
 print(12//5)
 
+# Variables
 x = 10 + 5  + 1
 print(x)
