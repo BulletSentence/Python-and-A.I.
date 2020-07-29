@@ -11,3 +11,6 @@ print(tuple1[2])
 print(tuple1[-3])
 print(tuple1[-2])
 print(tuple1[-1])
+
+#tuple line 
+print(tuple1[1:3])
