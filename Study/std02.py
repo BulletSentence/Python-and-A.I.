@@ -14,3 +14,6 @@ print(tuple1[-1])
 
 #tuple line 
 print(tuple1[1:3])
+
+#tuple sixe
+print(len(tuple1))
