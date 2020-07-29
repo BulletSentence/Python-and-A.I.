@@ -33,3 +33,11 @@ print(l)
 # modify element from index
 l[1] = 10
 print(l)
+
+# Delete element
+del(l[1])
+print(l)
+
+# Separete string to a list
+text = "Hello World".split
+print(text)
