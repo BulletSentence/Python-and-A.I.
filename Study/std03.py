@@ -4,4 +4,7 @@ age=17
 
 if (age > 18):
     print("Enter")
-print("No")
+if (age == 18):
+    print("Ok")
+else:
+    print("You cant enter")
