@@ -9,7 +9,7 @@ else:
     print("You cant enter")
     
 # Condition with OR
-year = 1990
+year = 2000
 
 if (year < 1980) or (year > 1989):
     print("70s or 80s")
