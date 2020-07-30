@@ -13,5 +13,5 @@ year = 1990
 
 if (year < 1980) or (year > 1989):
     print("70s or 80s")
-else
+else:
     print("80s")
